@@ -1,0 +1,1 @@
+This project is the target being used to test the instructions at https://medium.com/@ayushya/move-directory-from-one-repository-to-another-preserving-git-history-d210fa049d4b for copying a directory from one git repository to another while preserving the history.
