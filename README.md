@@ -1,1 +1,0 @@
-This project is to test the instructions at https://medium.com/@ayushya/move-directory-from-one-repository-to-analternative-preserving-git-history-d210fa049d4b for copying a directory from one git repository to analternative while preserving the history.
